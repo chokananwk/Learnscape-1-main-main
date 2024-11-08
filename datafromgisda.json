@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "66b5aaa269a783462c0fd11e",
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.529316, 13.722642] },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd11e",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "98, Sathorn Square Office Tower, 4th floor, Room 407, Sathon Nuea Rd., Si Lom, Bang Rak, Bangkok 10500 Thailand",
+        "address_th": "98 อาคารสาทรสแควร์ ออฟฟิศ ทาวเวอร์ ชั้น 4 ห้อง 407 ถนนสาทรเหนือ แขวงสีลม เขตบางรัก กรุงเทพมหานคร",
+        "approved": 1,
+        "id": 10000001,
+        "info_url": "https://map.longdo.com/main/p/A10000001/info",
+        "latitude": 13.722642,
+        "longitude": 100.529316,
+        "name_en": "Metamedia Technology Co., Ltd.",
+        "name_th": "บริษัท เมตามีเดีย เทคโนโลยี จำกัด",
+        "poi_type_e": "building",
+        "poi_type_t": "อาคาร",
+        "telephone": "+6621081790-1",
+        "website": "http://www.mm.co.th"
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd11f",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.57575681000009, 13.887970224000071]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd11f",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Thung Song Hong, Lak Si, Bangkok 10210 Thailand",
+        "address_th": "แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร 10210",
+        "approved": 1,
+        "id": 10000003,
+        "info_url": "https://map.longdo.com/main/p/A10000003/info",
+        "latitude": 13.8879702244,
+        "longitude": 100.57575681,
+        "name_en": "Thai Infonity",
+        "name_th": "ไทยอินโฟนิตี้",
+        "poi_type_e": "Shop / Other public location",
+        "poi_type_t": "ร้านค้าทั่วไป และ อื่นๆ",
+        "telephone": null,
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd120",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.55936156300004, 13.72261977100004]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd120",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Ratchada Phisek Rd., Khlong Toei, Khlong Toei, Bangkok 10110 Thailand",
+        "address_th": "รัชดาภิเษก แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110",
+        "approved": 1,
+        "id": 10000007,
+        "info_url": "https://map.longdo.com/main/p/A10000007/info",
+        "latitude": 13.7226197709,
+        "longitude": 100.559361563,
+        "name_en": "The Stock Exchange of Thailand",
+        "name_th": "ตลาดหลักทรัพย์แห่งประเทศไทย",
+        "poi_type_e": "Shop / Other public location",
+        "poi_type_t": "ร้านค้าทั่วไป และ อื่นๆ",
+        "telephone": "0-2229-2000 หรือ 0-2229-2222",
+        "website": "http://www.set.or.th"
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd121",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.52886221000006, 13.746797129000072]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd121",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Wang Mai, Pathum Wan, Bangkok 10400 Thailand",
+        "address_th": "แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10400",
+        "approved": 1,
+        "id": 10000008,
+        "info_url": "https://map.longdo.com/main/p/A10000008/info",
+        "latitude": 13.7467971294,
+        "longitude": 100.52886221,
+        "name_en": "ธนาบุตร",
+        "name_th": "ธนาบุตร",
+        "poi_type_e": "building",
+        "poi_type_t": "อาคาร",
+        "telephone": null,
+        "website": "http://www.tanabutr.co.th/"
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd122",
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [100.531037, 13.752618] },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd122",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "486/130, Soi Phetchaburi 16, Phayathai Rd., Thanon Phet Buri, Ratchathewi, Bangkok 10400 Thailand",
+        "address_th": "486/130 ซอย เพชรบุรี 16 ถนนพญาไท แขวงถนนเพชรบุรี เขตราชเทวี กรุงเทพมหานคร 10400",
+        "approved": 1,
+        "id": 10000009,
+        "info_url": "https://map.longdo.com/main/p/A10000009/info",
+        "latitude": 13.752618,
+        "longitude": 100.531037,
+        "name_en": "Dr. Fuangpet Medical Center",
+        "name_th": "คลินิกเวชกรรม พญ.เฟื่องเพชร",
+        "poi_type_e": "hospital, clinic, healthcare office",
+        "poi_type_t": "โรงพยาบาล, คลินิก, สาธารณสุข",
+        "telephone": "+6622156159",
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd123",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.56067023200006, 13.736712227000055]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd123",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Khlong Toei, Khlong Toei, Bangkok 10110 Thailand",
+        "address_th": "แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110",
+        "approved": 1,
+        "id": 10000014,
+        "info_url": "https://map.longdo.com/main/p/A10000014/info",
+        "latitude": 13.7367122274,
+        "longitude": 100.560670232,
+        "name_en": "Tongkee",
+        "name_th": "ภัตตาคารท่องกี่",
+        "poi_type_e": "restaurant, pub, bar",
+        "poi_type_t": "ร้านอาหาร",
+        "telephone": null,
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd124",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.50431593900004, 13.742999273000066]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd124",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Chakkrawat, Samphanthawong, Bangkok 10100 Thailand",
+        "address_th": "แขวงจักรวรรดิ เขตสัมพันธวงศ์ กรุงเทพมหานคร 10100",
+        "approved": 1,
+        "id": 10000015,
+        "info_url": "https://map.longdo.com/main/p/A10000015/info",
+        "latitude": 13.7429992726,
+        "longitude": 100.504315939,
+        "name_en": "Charoen Chai Panich",
+        "name_th": "ร้านเจริญชัยพานิช",
+        "poi_type_e": "Shop / Other public location",
+        "poi_type_t": "ร้านค้าทั่วไป และ อื่นๆ",
+        "telephone": null,
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd125",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.74666036700006, 13.773793756000032]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd125",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Rom Klao Rd., Khlong Sam Prawet, Lat Krabang, Bangkok 10520 Thailand",
+        "address_th": "ร่มเกล้า แขวงคลองสามประเวศ เขตลาดกระบัง กรุงเทพมหานคร 10520",
+        "approved": 1,
+        "id": 10000016,
+        "info_url": "https://map.longdo.com/main/p/A10000016/info",
+        "latitude": 13.7737937558,
+        "longitude": 100.746660367,
+        "name_en": "GHB.",
+        "name_th": "ธนาคารอาคารสงเคราะห์สาขาลาดกระบัง",
+        "poi_type_e": "Government Housing Bank",
+        "poi_type_t": "ธนาคารอาคารสงเคราะห์ (ธอส.)",
+        "telephone": null,
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd126",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.53347555800008, 13.737003474000062]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd126",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Pathum Wan, Pathum Wan, Bangkok 10400 Thailand",
+        "address_th": "แขวงปทุมวัน เขตปทุมวัน กรุงเทพมหานคร 10400",
+        "approved": 1,
+        "id": 10000019,
+        "info_url": "https://map.longdo.com/main/p/A10000019/info",
+        "latitude": 13.7370034741,
+        "longitude": 100.533475558,
+        "name_en": "Faculty of Engineering Chulalongkorn University",
+        "name_th": "คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        "poi_type_e": "school, university, education places",
+        "poi_type_t": "สถานศึกษา",
+        "telephone": null,
+        "website": null
+      }
+    },
+    {
+      "id": "66b5aaa269a783462c0fd127",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.45952996500006, 13.780612812000072]
+      },
+      "properties": {
+        "_createdAt": "2024-08-09T05:35:30.547Z",
+        "_createdBy": "66b5934c1b6b5bd6b42c9a51",
+        "_id": "66b5aaa269a783462c0fd127",
+        "_updatedAt": "2024-08-09T05:35:30.547Z",
+        "_updatedBy": "66b5934c1b6b5bd6b42c9a51",
+        "address_en": "Lae 10170 Thailand",
+        "address_th": "แขวงคลองชักพระ 10170",
+        "approved": 1,
+        "id": 10000021,
+        "info_url": "https://map.longdo.com/main/p/A10000021/info",
+        "latitude": 13.7806128116,
+        "longitude": 100.459529965,
+        "name_en": "Sakana(Thailand) / Perfect food co.,ltd",
+        "name_th": "ซาคานา (ประเทศไทย) / บ.เพอร์เฟ็คท์ฟู้ด จก.",
+        "poi_type_e": "Shop / Other public location",
+        "poi_type_t": "ร้านค้าทั่วไป และ อื่นๆ",
+        "telephone": null,
+        "website": null
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "https://va-cdn-02.vallarismaps.com/core/api/features/1.1/collections/66b5aa4769a783462c0fd11a/items?api_key=5tIayeGkvLPb33FlO80Z20BHG4ptpQqGiQbD69mSMORanxJ00PgkxdsLsL2mERZ0",
+      "rel": "self",
+      "type": "application/geo+json",
+      "title": "This document"
+    },
+    {
+      "href": "https://va-cdn-02.vallarismaps.com/core/api/features/1.1/collections/66b5aa4769a783462c0fd11a/items?api_key=5tIayeGkvLPb33FlO80Z20BHG4ptpQqGiQbD69mSMORanxJ00PgkxdsLsL2mERZ0",
+      "rel": "alternate",
+      "type": "application/json",
+      "title": "This document"
+    },
+    {
+      "href": "https://va-cdn-02.vallarismaps.com/core/api/features/1.1/collections/66b5aa4769a783462c0fd11a/items?api_key=5tIayeGkvLPb33FlO80Z20BHG4ptpQqGiQbD69mSMORanxJ00PgkxdsLsL2mERZ0\u0026collectionCreatedBy=66b5934c1b6b5bd6b42c9a51\u0026offset=10",
+      "rel": "next",
+      "type": "application/json"
+    }
+  ],
+  "timeStamp": "2024-11-08T15:19:33.945Z",
+  "numberMatched": 116461,
+  "numberReturned": 10
+}
