@@ -87,7 +87,7 @@ export default function Home() {
           {/* บทความที่ 1 */}
           <div className="overflow-hidden bg-white rounded-lg shadow-md">
             <Image
-              src="/blog1.jpg"
+              src="/uploads/rpEMz4ez-image16-1024x683.webp"
               alt="Hidden Beaches"
               width={300}
               height={200}
@@ -102,7 +102,7 @@ export default function Home() {
                 ซึ่งนักท่องเที่ยวส่วนใหญ่ยังไม่เคยไป!
               </p>
               <a
-                href="/blog/hidden-beaches"
+                href="https://www.traveloka.com/th-th/explore/destination/25-places-to-travel-khonkaen/51546?utm_id=tPGU1UXw&ad_id=&click_id=Cj0KCQiAire5BhCNARIsAM53K1jYdqBlH5YTlzji8kQ0W5c7bCBnHmO_NCVTvjUJwLgZty9GIc0TQP0aAv02EALw_wcB&placement=&group_id=&contexts=%7B%22accessCode%22:%221095THMKT9719%22%7D&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1jYdqBlH5YTlzji8kQ0W5c7bCBnHmO_NCVTvjUJwLgZty9GIc0TQP0aAv02EALw_wcB"
                 className="inline-block mt-4 text-blue-500 hover:underline"
               >
                 Read More →
@@ -113,7 +113,7 @@ export default function Home() {
           {/* บทความที่ 2 */}
           <div className="overflow-hidden bg-white rounded-lg shadow-md">
             <Image
-              src="/blog2.jpg"
+              src="/uploads/TqX5JPfg-image11-1024x683.webp"
               alt="Packing Tips"
               width={300}
               height={200}
@@ -138,7 +138,7 @@ export default function Home() {
           {/* บทความที่ 3 */}
           <div className="overflow-hidden bg-white rounded-lg shadow-md">
             <Image
-              src="/blog3.jpg"
+              src="/uploads/image36-1024x793.webp"
               alt="Travel on a Budget"
               width={300}
               height={200}
